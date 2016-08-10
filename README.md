@@ -1,2 +1,4 @@
 # node-pm2
-use nodejs offical base image
+
+ This Dockerfile will build in nodejs offical base image.
+
