@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:8
 MAINTAINER cowpanda
 
 RUN npm install -g pm2@latest
